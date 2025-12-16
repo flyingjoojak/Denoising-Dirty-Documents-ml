@@ -11,7 +11,7 @@
 
 ## 2. 데이터 설명
 ### 데이터셋 구성
-- [데이터 링크](https://www.kaggle.com/competitions/denoising-dirty-documents/data)
+- [데이터 출처](https://www.kaggle.com/competitions/denoising-dirty-documents/data)
 - `train/`: 노이즈가 포함된 입력 이미지  
 - `train_cleaned/`: 대응되는 깨끗한 이미지(정답 레이블)  
 - `test/`: 평가용 노이즈 이미지  
